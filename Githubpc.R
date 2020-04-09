@@ -34,3 +34,9 @@ View(coronavirus)
 ###Análisis
 
 str(coronavirus)
+
+
+###Limpieza
+head(coronavirus)
+coronavirus=coronavirus [,c(2:5)]
+
